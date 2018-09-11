@@ -1,0 +1,166 @@
+{
+    "data" : [
+        {
+            "name" :"Two Bulls",
+            "logo" :"/assets/logos/twoBulls.png",
+            "pros" :"Im interested in their work. On their website they talk about a few of the cool projects they are working on. My development experince with IOT devices would be benneficial to their team. ",
+            "cons" :"The office I would likly be in is located in NYC. I would prefer not to work downstate. ",
+            "slidesPath":"",
+            "about":{
+                "industry":"Computer Software",
+                "position":"Web Developer",
+                "location":"NYC / Berlin / Melbourne ",
+                "salary":null  
+            },
+            "bgColor":"#fffff",
+            "color":"#505050"
+
+        },
+        {
+            "name" :"Fitbit",
+            "logo" :"/assets/logos/fitbit.png",
+            "pros" :"They seem to have a good work culture and provide many benfits to their employees. It would be cool to work on a product that is used by so many people.",
+            "cons" :"I prefer working in small teams. A company the size of fitbit is larger than id like. Id prefer to stay in NY but Boston is beautful too.",
+            "slidesPath":"https://player.vimeo.com/video/111235164?mute=1?autoplay=1&loop=1",
+            "about":{
+                "industry":"Health",
+                "position":"Developer",
+                "location":"Boston & NYC",
+                "salary":null 
+            },
+            "bgColor":"#fffff",
+            "color":"#505050"
+
+        },
+        {
+            "name" :"Phu Concepts",
+            "logo" :"/assets/logos/phu.png",
+            "pros" :"Why I like this company",
+            "cons" :"Why I dont like this company",
+            "slidesPath":"",
+            "about":{
+                "industry":"Marketing",
+                "position":"Developer...",
+                "location":"Rochester NY",
+                "salary":null 
+            },
+            "bgColor":"#fffff",
+            "color":"#505050"
+
+        },
+        {
+            "name" :"clevermethod",
+            "logo" :"/assets/logos/clevermethod.png",
+            "pros" :"Clevermethod does work for serveral awesome brands. They seem to have a fun work culture and are doing projects that interst me.",
+            "cons" :"Its pretty close to Buffalo which means the winters would be especially hard.",
+            "slidesPath":"https://player.vimeo.com/video/217060353?background=1&mute=1?autoplay=1&loop=1",
+            "about":{
+                "industry":"Marketing",
+                "position":"Developer...",
+                "location":"Elma NY (Buffalo)",
+                "salary":null 
+            },
+            "bgColor":"#fffff",
+            "color":"#505050"
+
+        },
+        {
+            "name" :"Instrument",
+            "logo" :"/assets/logos/instrument.png",
+            "pros" :"Instrument is doing some really cool work. I saw them present at creative industry day in 2017 and they were very inspiring. They work with brands I know and love and have a great work culture. Portland OR seems like it is a fun place to live and work too!",
+            "cons" :"Several of the positions that are available here are senior level. I am lacking the experience for any of their current dev jobs.",
+            "slidesPath":"https://player.vimeo.com/video/226829863?background=1&mute=1?autoplay=1&loop=1",
+            "about":{
+                "industry":"Marketing",
+                "position":"Developer...",
+                "location":"Portland OR",
+                "salary":null 
+            },
+            "bgColor":"#fffff",
+            "color":"#505050"
+
+        },
+        {
+            "name" :"Accelerate Media",
+            "logo" :"/assets/logos/am.png",
+            "pros" :"Why I like this company",
+            "cons" :"Why I dont like this company",
+            "slidesPath":"https://youtu.be/Dv0mX5hwFlw",
+            "about":{
+                "industry":"line of work",
+                "position":"Developer...",
+                "location":"Someplace",
+                "salary":null 
+            },
+            "bgColor":"#fffff",
+            "color":"#505050"
+
+        },
+        {
+            "name" :"Partners & Napier",
+            "logo" :"/assets/logos/partners.png",
+            "pros" :"Why I like this company",
+            "cons" :"Why I dont like this company",
+            "slidesPath":"https://player.vimeo.com/video/230067613?background=1&mute=1?autoplay=1&loop=1",
+            "about":{
+                "industry":"Marketing",
+                "position":"Developer...",
+                "location":"Someplace",
+                "salary":null 
+            },
+            "bgColor":"#fffff",
+            "color":"#505050"
+
+        },
+        {
+            "name" :"CGI Commnications",
+            "logo" :" /assets/logos/cgi.jpg",
+            "pros" :"Why I like this company",
+            "cons" :"Why I dont like this company",
+            "slidesPath":"https://player.vimeo.com/video/254029801?background=1&mute=1?autoplay=1&loop=1",
+            "about":{
+                "industry":"Marketing",
+                "position":"Developer...",
+                "location":"Someplace",
+                "salary":null 
+            },
+            "bgColor":"#fffff",
+            "color":"#505050"
+
+        }, 
+        {
+            "name" :"Dixon Schwabl",
+            "logo" :"/assets/logos/ds-logo.png",
+            "pros" :"Why I like this company",
+            "cons" :"Why I dont like this company",
+            "slidesPath":"https://player.vimeo.com/video/268030425?background=1&mute=1?autoplay=1&loop=1",
+            "about":{
+                "industry":"line of work",
+                "position":"Developer...",
+                "location":"Victor NY",
+                "salary":null 
+            },
+            "bgColor":"#fffff",
+            "color":"#505050"
+
+        },
+        {
+            "name" :"Labarge Media",
+            "logo" :"/assets/logos/labarge.jpg",
+            "pros" :"Labarge is a small company that works with large and small clients alike. They work with several local businesses too. I feel that doing work in the community you live in is especially meaningful. Its located in the charming city of Canandaigua which is where id like to be someday. ",
+            "cons" :"This is a small company thats very competative to get into. My lack of experience could put me at a disadvantage. But I feel like I can make up for that with good character and a strong work ethic.",
+            "slidesPath":"",
+            "about":{
+                "industry":"Marketing",
+                "position":"Web Developer",
+                "location":"Canandaigua",
+                "salary":null 
+            },
+            "bgColor":"#fffff",
+            "color":"#505050"
+
+        }
+
+        
+    ]
+}

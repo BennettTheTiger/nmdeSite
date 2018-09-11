@@ -1,0 +1,187 @@
+
+{
+    "allData" : [
+        {
+            "name":"Two Bulls",
+            "location":"NYC / Berlin / Melbourne ",
+            "size":"60+",
+            "industry":"Creative",
+            "site":"https://www.twobulls.com/",
+            "description":null,
+            "imgLink":" /assets/logos/twoBulls.png"
+        },
+        {
+            "name":"Draft Kings",
+            "location":"NYC Boston",
+            "size":"550-600",
+            "industry":"Sports",
+            "site":"https://www.draftkings.com/",
+            "description":null,
+            "imgLink":" /assets/logos/draftKings.png"
+        },
+        {
+            "name":"Martino Flynn",
+            "location":"Pittsford NY",
+            "size":"60",
+            "industry":"Marketing",
+            "site":"http://www.martinoflynn.com/",
+            "description":null,
+            "imgLink":"/assets/logos/martinoFlyn.png"
+        },
+        {
+            "name":"Dixon Schwabl",
+            "location":"Victor NY",
+            "size":"51-200",
+            "industry":"Marketing",
+            "site":"https://dixonschwabl.com/",
+            "description":null,
+            "imgLink":" /assets/logos/ds-logo.png"
+        },
+        {
+            "name":"Fitbit Inc",
+            "location":"Boston/NYC",
+            "size":"2000+",
+            "industry":"Health",
+            "site":"https://www.fitbit.com/home",
+            "description":null,
+            "imgLink":" /assets/logos/fitbit.png"
+        },
+        {
+            "name":"Jackbox Games",
+            "location":"Chicago IL",
+            "size":null,
+            "industry":"Gaming",
+            "site":"https://jackboxgames.com/",
+            "description":null,
+            "imgLink":" /assets/logos/jackbox.jpg"
+        },
+        {
+            "name":"GoPro",
+            "location":"San Mateo CA",
+            "size":null,
+            "industry":"Consumer",
+            "site":"https://shop.gopro.com/cameras",
+            "description":null,
+            "imgLink":" /assets/logos/gopro.png"
+        },
+        {
+            "name":"Netflix",
+            "location":"Los Gatos CA",
+            "size":"6000+",
+            "industry":"Consumer",
+            "site":"https://www.netflix.com/",
+            "description":null,
+            "imgLink":" /assets/logos/netflix.jpg"
+        },
+        {
+            "name":"Hulu",
+            "location":"Santa Monica CA",
+            "size":"2200+",
+            "industry":"Consumer",
+            "site":"https://www.hulu.com/",
+            "description":null,
+            "imgLink":" /assets/logos/hulu.png"
+        },
+        {
+            "name":"Instrument",
+            "location":"Portland OR",
+            "size":"270+",
+            "industry":"Consumer",
+            "site":"http://www.instrument.com/",
+            "description":null,
+            "imgLink":" /assets/logos/instrument.png"
+        },
+        {
+            "name":"ITX Corp",
+            "location":"Rochester NY",
+            "size":"LARGE",
+            "industry":"Consumer",
+            "site":"https://www.itx.com/",
+            "description":null,
+            "imgLink":" /assets/logos/itx.png"
+        },
+        {
+            "name":"Partners & Napier",
+            "location":"Rochester NY",
+            "size":"Small",
+            "industry":"Consumer",
+            "site":"https://www.partnersandnapier.com/",
+            "description":null,
+            "imgLink":" /assets/logos/partners.png"
+        },
+        {
+            "name":"Phu Concepts",
+            "location":"Rochester NY",
+            "size":"10-25",
+            "industry":"Consumer",
+            "site":"https://phuconcepts.com/",
+            "description":null,
+            "imgLink":" /assets/logos/phu.png"
+        },
+        {
+            "name":"Gupta Media",
+            "location":"Boston MA",
+            "size":"90+",
+            "industry":"Consumer",
+            "site":"https://www.guptamedia.com/",
+            "description":null,
+            "imgLink":" /assets/logos/gupta.png"
+        },
+        {
+            "name":"Disney Consumer Products and Interactive",
+            "location":"Orlando Fl",
+            "size":"4000+",
+            "industry":"Gaming",
+            "site":"https://dcpi.disney.com/",
+            "description":null,
+            "imgLink":" /assets/logos/dis.jpg"
+        },
+        {
+            "name":"Accelerate Media",
+            "location":"Rochester NY",
+            "size":"10-25",
+            "industry":"Consumer",
+            "site":"https://www.acceleratemediainc.com/",
+            "description":null,
+            "imgLink":" /assets/logos/am.png"
+        },
+        {
+            "name":"Labarge Media",
+            "location":"Canandaiguia NY",
+            "size":"10-25",
+            "industry":"Marketing",
+            "site":"http://labargemedia.com/",
+            "description":null,
+            "imgLink":" /assets/logos/labarge.jpg"
+        },
+        {
+            "name":"YPC Media",
+            "location":"Rochester NY",
+            "size":"10-25",
+            "industry":"Marketing",
+            "site":"http://labargemedia.com/",
+            "description":null,
+            "imgLink":" /assets/logos/ypc.jpg"
+        },
+        {
+            "name":"clevermethod",
+            "location":"Elma NY",
+            "size":"10-25",
+            "industry":"Marketing",
+            "site":"https://www.clevermethod.com/",
+            "description":null,
+            "imgLink":" /assets/logos/clevermethod.png"
+        },
+        {
+            "name":"CGI Communications",
+            "location":"Victor NY",
+            "size":"10-25",
+            "industry":"Marketing",
+            "site":"https://cgicompany.com/",
+            "description":null,
+            "imgLink":" /assets/logos/cgi.jpg"
+        }
+
+   
+    ]  
+}
