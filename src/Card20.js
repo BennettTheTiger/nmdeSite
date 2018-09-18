@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Col} from 'reactstrap';
+import './css/prefs.css';
 
 
 class CustomCard20 extends Component{

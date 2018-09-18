@@ -49,7 +49,7 @@
         {
             "name":"Jackbox Games",
             "location":"Chicago IL",
-            "size":null,
+            "size":33,
             "industry":"Gaming",
             "site":"https://jackboxgames.com/",
             "description":null,
@@ -58,7 +58,7 @@
         {
             "name":"GoPro",
             "location":"San Mateo CA",
-            "size":null,
+            "size":"1400+",
             "industry":"Consumer",
             "site":"https://shop.gopro.com/cameras",
             "description":null,
@@ -94,7 +94,7 @@
         {
             "name":"ITX Corp",
             "location":"Rochester NY",
-            "size":"LARGE",
+            "size":260,
             "industry":"Consumer",
             "site":"https://www.itx.com/",
             "description":null,
@@ -103,20 +103,20 @@
         {
             "name":"Partners & Napier",
             "location":"Rochester NY",
-            "size":"Small",
+            "size":"185",
             "industry":"Consumer",
             "site":"https://www.partnersandnapier.com/",
             "description":null,
             "imgLink":" /assets/logos/partners.png"
         },
         {
-            "name":"Phu Concepts",
-            "location":"Rochester NY",
+            "name":"Sharp Notions",
+            "location":"Fairport NY",
             "size":"10-25",
-            "industry":"Consumer",
-            "site":"https://phuconcepts.com/",
+            "industry":"Software Development - Marketing",
+            "site":"https://sharpnotions.com/",
             "description":null,
-            "imgLink":" /assets/logos/phu.png"
+            "imgLink":" /assets/logos/sn-logo.png"
         },
         {
             "name":"Gupta Media",
@@ -129,7 +129,7 @@
         },
         {
             "name":"Disney Consumer Products and Interactive",
-            "location":"Orlando Fl",
+            "location":"Orlando FL",
             "size":"4000+",
             "industry":"Gaming",
             "site":"https://dcpi.disney.com/",
@@ -137,17 +137,17 @@
             "imgLink":" /assets/logos/dis.jpg"
         },
         {
-            "name":"Accelerate Media",
-            "location":"Rochester NY",
-            "size":"10-25",
-            "industry":"Consumer",
-            "site":"https://www.acceleratemediainc.com/",
+            "name":"Constellation Brands",
+            "location":"Victor NY",
+            "size":"4000+",
+            "industry":"Marketing",
+            "site":"https://www.cbrands.com/",
             "description":null,
-            "imgLink":" /assets/logos/am.png"
+            "imgLink":" /assets/logos/cbrand.png"
         },
         {
             "name":"Labarge Media",
-            "location":"Canandaiguia NY",
+            "location":"Canandaigua NY",
             "size":"10-25",
             "industry":"Marketing",
             "site":"http://labargemedia.com/",
@@ -185,3 +185,4 @@
    
     ]  
 }
+

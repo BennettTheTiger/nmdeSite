@@ -4,6 +4,8 @@ import { Container, Row } from 'reactstrap';
 import customData from './data/20list.json';
 import CustomCard20 from './Card20';
 
+import './css/prefs.css';
+
 const sectionStyle = {padding:'20px'}
 
 class CardContainer extends Component{
@@ -21,7 +23,7 @@ class CardContainer extends Component{
             
            <Container>
                <div style={sectionStyle}>
-                    <h1 className="text-center">Meet the 20 Companies</h1>
+                    <h1 className="spacing">Meet the 20 Companies</h1>
                     <Row>
                             {dataCards}
                     </Row>

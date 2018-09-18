@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Row } from 'reactstrap';
+import './css/coreStyles.css';
 
 function Section1(props) {
     const bgStyle = {background:'#DD6E42',color:'#EAEAEA',height:"100vh"};
@@ -8,7 +9,7 @@ function Section1(props) {
     return <div style={bgStyle}>
     <Container>
     <Row>
-        <div className="text-center" style={titleStyle}>
+        <div className="centerPage" style={titleStyle}>
             <h1 >20 Potential Places to Work!</h1>
             <p>By: Bennett Schoonerman</p>
         </div>

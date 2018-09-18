@@ -1,11 +1,27 @@
 {
     "data" : [
         {
+            "name" :"Labarge Media",
+            "logo" :"/assets/logos/labarge.jpg",
+            "pros" :"Labarge is a small company that works with large and small clients alike. They work with several local businesses too. I feel that doing work in the community you live in is especially meaningful. Its located in the charming city of Canandaigua which is where I'd like to be someday. ",
+            "cons" :"This is a small company thats very competative to get into. My lack of experience could put me at a disadvantage. But I feel like I can make up for that with good character and a strong work ethic.",
+            "slidesPath":"http://labargemedia.com/",
+            "about":{
+                "industry":"Marketing",
+                "position":"Web Developer",
+                "location":"Canandaigua",
+                "salary":null 
+            },
+            "bgColor":"#fffff",
+            "color":"#505050"
+
+        },
+        {
             "name" :"Two Bulls",
             "logo" :"/assets/logos/twoBulls.png",
             "pros" :"Im interested in their work. On their website they talk about a few of the cool projects they are working on. My development experince with IOT devices would be benneficial to their team. ",
             "cons" :"The office I would likly be in is located in NYC. I would prefer not to work downstate. ",
-            "slidesPath":"",
+            "slidesPath":"https://www.twobulls.com/about",
             "about":{
                 "industry":"Computer Software",
                 "position":"Web Developer",
@@ -20,7 +36,7 @@
             "name" :"Fitbit",
             "logo" :"/assets/logos/fitbit.png",
             "pros" :"They seem to have a good work culture and provide many benfits to their employees. It would be cool to work on a product that is used by so many people.",
-            "cons" :"I prefer working in small teams. A company the size of fitbit is larger than id like. Id prefer to stay in NY but Boston is beautful too.",
+            "cons" :"I prefer working in small teams. A company the size of fitbit is larger than I'd like. I'd prefer to stay in NY but Boston is beautful too.",
             "slidesPath":"https://player.vimeo.com/video/111235164?mute=1?autoplay=1&loop=1",
             "about":{
                 "industry":"Health",
@@ -33,31 +49,15 @@
 
         },
         {
-            "name" :"Phu Concepts",
-            "logo" :"/assets/logos/phu.png",
-            "pros" :"Why I like this company",
-            "cons" :"Why I dont like this company",
-            "slidesPath":"",
+            "name" :"Constellation Brands",
+            "logo" :"/assets/logos/cbrand.png",
+            "pros" :"Constellation Brands is passionate about building brands that people love and helping them connect with one another. They work with many well established wine, beer, and spirit brands. They have a fun work culture and good work perks. ",
+            "cons" :"They are looking for someone with 4+ years of experienece in front end dev. They build on the Angular framework where I prefer React. I would likely fall short for this position due to lack of experience.",
+            "slidesPath":"https://www.cbrands.com/",
             "about":{
                 "industry":"Marketing",
-                "position":"Developer...",
-                "location":"Rochester NY",
-                "salary":null 
-            },
-            "bgColor":"#fffff",
-            "color":"#505050"
-
-        },
-        {
-            "name" :"clevermethod",
-            "logo" :"/assets/logos/clevermethod.png",
-            "pros" :"Clevermethod does work for serveral awesome brands. They seem to have a fun work culture and are doing projects that interst me.",
-            "cons" :"Its pretty close to Buffalo which means the winters would be especially hard.",
-            "slidesPath":"https://player.vimeo.com/video/217060353?background=1&mute=1?autoplay=1&loop=1",
-            "about":{
-                "industry":"Marketing",
-                "position":"Developer...",
-                "location":"Elma NY (Buffalo)",
+                "position":"Front End Software Engineer",
+                "location":"Victor NY",
                 "salary":null 
             },
             "bgColor":"#fffff",
@@ -72,7 +72,7 @@
             "slidesPath":"https://player.vimeo.com/video/226829863?background=1&mute=1?autoplay=1&loop=1",
             "about":{
                 "industry":"Marketing",
-                "position":"Developer...",
+                "position":"Software Developer",
                 "location":"Portland OR",
                 "salary":null 
             },
@@ -81,15 +81,15 @@
 
         },
         {
-            "name" :"Accelerate Media",
-            "logo" :"/assets/logos/am.png",
-            "pros" :"Why I like this company",
-            "cons" :"Why I dont like this company",
-            "slidesPath":"https://youtu.be/Dv0mX5hwFlw",
+            "name" :"Sharp Notions",
+            "logo" :"/assets/logos/sn-logo.png",
+            "pros" :"Sharp Notions is doing the kind of work I want to do, in a place I want to be. They are utilizing an array of modern technology to develop software and web apps for businesses large and small. Unlike several other positions I have found I meet the requirements and feel that this company could be a good fit. ",
+            "cons" :"I dont have much experince with Docker, Android, Postgres, or .NET. Thankfully I am comfortable with the rest of their technology stack.", 
+            "slidesPath":"https://sharpnotions.com/",
             "about":{
-                "industry":"line of work",
-                "position":"Developer...",
-                "location":"Someplace",
+                "industry":"Marketing",
+                "position":"Javascript(Node) Developer",
+                "location":"Fairport NY",
                 "salary":null 
             },
             "bgColor":"#fffff",
@@ -99,13 +99,13 @@
         {
             "name" :"Partners & Napier",
             "logo" :"/assets/logos/partners.png",
-            "pros" :"Why I like this company",
-            "cons" :"Why I dont like this company",
+            "pros" :"They do amazing award winning work. They work with several big name brands. They are a local company with a great repuation and work culture.",
+            "cons" :"They focus very heavy on branding and marketing, more so in the cinematic space than the web. There are NO available positions. But they do have some design openings...",
             "slidesPath":"https://player.vimeo.com/video/230067613?background=1&mute=1?autoplay=1&loop=1",
             "about":{
                 "industry":"Marketing",
-                "position":"Developer...",
-                "location":"Someplace",
+                "position":"Front-End Developer",
+                "location":"Rochester NY",
                 "salary":null 
             },
             "bgColor":"#fffff",
@@ -113,15 +113,15 @@
 
         },
         {
-            "name" :"CGI Commnications",
+            "name" :"CGI Communications",
             "logo" :" /assets/logos/cgi.jpg",
-            "pros" :"Why I like this company",
-            "cons" :"Why I dont like this company",
+            "pros" :"CGI has been on my radar for awhile. They are a one stop shop for marketing needs. They are located in downtown Rochester but have offices all around the country. Plus it looks like a fun place to work!",
+            "cons" :"My backend skills need to be strengthened to be considered a 'full stack' dev. There are some mixed reviews about working here. But id like to give it a go!",
             "slidesPath":"https://player.vimeo.com/video/254029801?background=1&mute=1?autoplay=1&loop=1",
             "about":{
                 "industry":"Marketing",
-                "position":"Developer...",
-                "location":"Someplace",
+                "position":"Full Stack Web Developer",
+                "location":"Rochester NY",
                 "salary":null 
             },
             "bgColor":"#fffff",
@@ -131,12 +131,12 @@
         {
             "name" :"Dixon Schwabl",
             "logo" :"/assets/logos/ds-logo.png",
-            "pros" :"Why I like this company",
-            "cons" :"Why I dont like this company",
+            "pros" :"Dixon Schwabl looks like an amazing place to work. Work culture and location are very important to me. They work with big and small brands alike. They are looking for New Media majors!",
+            "cons" :"The Digital Project Manager oversees all tactical aspects of assigned projects. This postion is more involved on the management side than I'd like to be. I would fall short on work experience since they want 5-7 years development and 3-5 years of project management skills.",
             "slidesPath":"https://player.vimeo.com/video/268030425?background=1&mute=1?autoplay=1&loop=1",
             "about":{
-                "industry":"line of work",
-                "position":"Developer...",
+                "industry":"Marketing",
+                "position":"Digital Project Manager ",
                 "location":"Victor NY",
                 "salary":null 
             },
@@ -145,21 +145,22 @@
 
         },
         {
-            "name" :"Labarge Media",
-            "logo" :"/assets/logos/labarge.jpg",
-            "pros" :"Labarge is a small company that works with large and small clients alike. They work with several local businesses too. I feel that doing work in the community you live in is especially meaningful. Its located in the charming city of Canandaigua which is where id like to be someday. ",
-            "cons" :"This is a small company thats very competative to get into. My lack of experience could put me at a disadvantage. But I feel like I can make up for that with good character and a strong work ethic.",
-            "slidesPath":"",
+            "name" :"clevermethod",
+            "logo" :"/assets/logos/clevermethod.png",
+            "pros" :"Clevermethod does work for serveral awesome brands. They seem to have a fun work culture and are doing projects that interest me.",
+            "cons" :"It's pretty close to Buffalo which means the winters would be especially hard, but nothing that Rochester hasn't conditioned me to handle.",
+            "slidesPath":"https://player.vimeo.com/video/217060353?background=1&mute=1?autoplay=1&loop=1",
             "about":{
                 "industry":"Marketing",
-                "position":"Web Developer",
-                "location":"Canandaigua",
+                "position":"Web Application Developer",
+                "location":"Elma NY (Buffalo)",
                 "salary":null 
             },
             "bgColor":"#fffff",
             "color":"#505050"
 
         }
+        
 
         
     ]

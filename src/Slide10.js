@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
 import { Row,Col} from 'reactstrap';
+import './css/prefs.css';
 
 import Overview from './Overview';
 
-const videoStyle={position:'absolute',top:0,left:0,width:'100%',height:'100%',minWidth:'100%',minHeight:'100px;'};
+const videoStyle={position:'absolute',top:0,left:0,width:'100%',height:'100%',minWidth:'100%',minHeight:'100px'};
 
 class Slide10 extends Component{
     render(){
@@ -23,13 +24,13 @@ class Slide10 extends Component{
                 <div className="text-center" >
                     <img src={logo} style={imgStyle} alt="logoHere" ></img>
                 </div>
-                    <h1>#{num} {name}</h1>
+                    <h1 className="title">#{num} {name}</h1>
                 </Col>
                 <Col md={6}>
                     <Overview data={about}/>
                 </Col>
                 <Col md={6}>
-                        <div>
+                        <div className="d-none d-sm-block">
                             <iframe className="media" style={videoStyle} title="video" src={slidesPath} frameBorder="0" muted='true' allow="autoplay; fullscreen"></iframe>
                         </div>
                         
@@ -37,12 +38,12 @@ class Slide10 extends Component{
                 </Col>
                 <hr/>
                 <Col md={6}>
-                    <h4>Pros</h4>
+                    <h4 className="title">Pros</h4>
                     <hr/>
                     <p>{pros}</p>
                 </Col>
                 <Col md={6}>
-                    <h4>Cons</h4>
+                    <h4 className="title">Cons</h4>
                     <hr/>
                     <p>{cons}</p>
                 </Col>
